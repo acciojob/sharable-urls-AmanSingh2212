@@ -1,1 +1,11 @@
+*{
+	margin:0;
+	padding:0;
+}
+p{
+	margin-top:12px;
+}
 
+button{
+	margin-top:10px;
+}
